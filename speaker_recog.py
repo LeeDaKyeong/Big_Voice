@@ -3,6 +3,7 @@ import os
 import numpy as np
 from sklearn import svm
 import pickle
+import denoising
 
 # speaker recog train data 생성(svm)
 def train_data(path):
@@ -16,6 +17,7 @@ def train_data(path):
                 path4 = os.path.join(path3,index3)  # /Users/apple/Desktop/audio_name/DK/DK_11.30/DK_sentence1/sentence1_1.wav
 
                 y, sr = util.call_audio_librosa(path4)
+                #y = denoising.denoise(y)
                 li.append(util.MFCC_extract_reshape(y))
     _li = np.array(li)
     return _li

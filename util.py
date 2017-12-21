@@ -15,7 +15,6 @@
 import numpy as np
 import librosa
 from pydub import AudioSegment
-from scipy import signal
 from pydub.silence import split_on_silence
 
 
@@ -23,6 +22,7 @@ from pydub.silence import split_on_silence
 def call_audio_librosa(path, sr = 44100):
     y, sr = librosa.load(path,sr = sr)
     #y = audio_regul(y)
+    #y = audio_extract(y)
     return (y, sr)
 
 # call audio with AudioSegment
@@ -32,6 +32,9 @@ def call_audio_AudioSegment(path):
 
 # 정규화
 def audio_regul(y):
+    pass
+
+def audio_extract(y):
     pass
 
 # AudioSegment to librosa
