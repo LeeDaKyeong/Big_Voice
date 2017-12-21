@@ -13,8 +13,7 @@ def train_data(path):
         for index2 in os.listdir(path2):
             path3 = os.path.join(path2, index2)  # /Users/apple/Desktop/audio_name/DK/DK_11.30/DK_sentence1
             for index3 in os.listdir(path3):
-                path4 = os.path.join(path3,
-                                     index3)  # /Users/apple/Desktop/audio_name/DK/DK_11.30/DK_sentence1/sentence1_1.wav
+                path4 = os.path.join(path3,index3)  # /Users/apple/Desktop/audio_name/DK/DK_11.30/DK_sentence1/sentence1_1.wav
 
                 y, sr = util.call_audio_librosa(path4)
                 li.append(util.MFCC_extract_reshape(y))
