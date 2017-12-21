@@ -29,12 +29,18 @@ def speaker_recog_model_load(path = './model/speaker_recog_svm.sav'):
 
 # test
 def speaker_recog(audio_path):
+    speaker = {0: "다경",
+               1: "혜진",
+               2: "강열",
+               3: "이삭",
+               4: "태권"}
+
     y,sr = util.call_audio_librosa(audio_path)
     mfcc = util.MFCC_extract_reshape(y)
     _mfcc = np.reshape(mfcc, (1, len(mfcc)))
     model = speaker_recog_model_load()
     result = model.predict(_mfcc)
-    return result
+    return speaker[int(result)]
 
 
 if __name__ == "__main__":

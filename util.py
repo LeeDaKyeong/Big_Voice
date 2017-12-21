@@ -10,6 +10,8 @@
     #api
 #데이터 늘이기
 
+#마이크로 바로 연동하는것도 해볼까>_<
+
 import numpy as np
 import librosa
 from pydub import AudioSegment
@@ -44,18 +46,6 @@ def AudioSegment2librosa(y):
 def librosa2AudioSegment(y, sr = 44100):
     samples = AudioSegment(y.tobytes(), frame_rate=sr, sample_width=y.dtype.itemsize, channels=1)
     return samples
-
-# input : AudioSegment, output : AudioSegment
-def noise_systhesis(audio, noise):
-    combine = audio.overlay(noise)
-    return combine
-
-# denoise, input : librosa
-def denoise(y):
-    D_noise = librosa.stft(y)
-    D_denoise = signal.wiener(D_noise)
-    y_denoised = librosa.istft(D_denoise)
-    return y_denoised
 
 # sentece to words,
 # input : AudioSegment, output : words list
