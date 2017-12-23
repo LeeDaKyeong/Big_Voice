@@ -61,7 +61,7 @@ def X_generate(data):
     return X
 
 def train_test_split(X,Y):
-    x_train, x_test, y_train, y_test = train_test_split(X, _Y, test_size=0.3, random_state=42)
+    x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size=0.3, random_state=42)
 
     return (x_train, x_test, y_train, y_test)
 
@@ -106,6 +106,8 @@ def model_test(path):
 
 if __name__ == "__main__":
     data, Y = data_generate()
+    print(data.shape)
+
     Y = Y_generate(Y)
     X = X_generate(data)
     x_train, x_test, y_train, y_test = train_test_split(X,Y)
