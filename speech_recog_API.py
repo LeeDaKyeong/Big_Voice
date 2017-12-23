@@ -25,8 +25,10 @@ def speech_recog_mic():
         audio = r.listen(source)
 
         try:
-            print(r.recognize_google(audio, language='ko'))
+            result = (r.recognize_google(audio, language='ko'))
         except sr.UnknownValueError:
             print("Google Speech Recognition could not understand audio")
         except sr.RequestError as e:
             print("Could not request results from Google Speech Recognition service; {0}".format(e))
+
+    return result

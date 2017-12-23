@@ -1,16 +1,3 @@
-#오디오파일 불러오기 o
-#음성이 있는 부분만 자르기
-#음성크기 맞추기
-#노이즈 합성 o
-#디노이징 o
-#화자인식 o
-#문장을 단어로 자르기 o
-#STT
-    #모델
-    #api o
-#데이터 늘이기
-
-#마이크로 바로 연동하는것도 해볼까>_<
 
 import numpy as np
 import librosa
@@ -21,7 +8,7 @@ from pydub.silence import split_on_silence
 # call audio with librosa
 def call_audio_librosa(path, sr = 44100):
     y, sr = librosa.load(path,sr = sr)
-    #y = audio_regul(y)
+    y = audio_regul(y)
     #y = audio_extract(y)
     return (y, sr)
 
@@ -32,7 +19,8 @@ def call_audio_AudioSegment(path):
 
 # 정규화
 def audio_regul(y):
-    pass
+    _y = librosa.util.normalize(y)
+    return _y
 
 def audio_extract(y):
     pass
@@ -41,7 +29,7 @@ def audio_extract(y):
 def AudioSegment2librosa(y):
     samples = y.get_array_of_samples()
     samples = np.array(samples)
-    #samples = audio_regul(samples) #음성 사이즈는 살짝 이상해져서 정규화 필요
+    samples = audio_regul(samples) #음성 사이즈는 살짝 이상해져서 정규화 필요
     return samples
 
 # librosa to AudioSegment
@@ -58,7 +46,12 @@ def word_seperation(y):
 
 # MFCC extract
 # input : librosa, output : numpy
-def MFCC_extract(y, sr = 44100):
+def MFCC_extract(y, sr = 44100, y_len = 100000):
+    if len(y) < y_len:
+        y = np.append(y,np.zeros(y_len-len(y)))
+    else:
+        y = y[:y_len]
+
     S = librosa.feature.melspectrogram(y, sr=sr, n_mels=128)
     log_S = librosa.power_to_db(S, ref=np.max)
     return log_S
