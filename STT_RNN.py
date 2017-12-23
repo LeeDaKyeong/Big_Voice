@@ -8,6 +8,7 @@ from keras.layers import Dense
 from keras.layers import LSTM
 from keras.optimizers import Adam
 import matplotlib.pyplot as plt
+from keras.models import load_model
 
 def data_generate():
     path = './audio_date'  # Put your input directory
@@ -91,6 +92,10 @@ def model_train(x_train, x_test, y_train, y_test):
 
     return history
 
+def model_load():
+    model = load_model('./model/stt_rnn_mfcc.h5')
+    return model
+
 def model_test(path):
     y, sr = util.call_audio_librosa(path)
 
@@ -100,6 +105,8 @@ def model_test(path):
     X = X.reshape(1, -1, 1)
     X = X.astype('float32')
     X /= 255
+
+    model = model_load()
 
     return model.predict_classes(X)
 
