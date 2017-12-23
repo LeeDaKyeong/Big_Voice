@@ -57,7 +57,6 @@ def X_generate(data):
     X = data.copy()
     X = X.reshape(X.shape[0], -1, 1)
     X = X.astype('float32')
-    X /= 255
 
     return X
 
@@ -104,7 +103,6 @@ def model_test(path):
     X = mfcc.copy()
     X = X.reshape(1, -1, 1)
     X = X.astype('float32')
-    X /= 255
 
     model = model_load()
 
