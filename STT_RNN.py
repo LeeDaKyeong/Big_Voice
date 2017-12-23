@@ -60,7 +60,7 @@ def X_generate(data):
 
     return X
 
-def train_test_split(X,Y):
+def data_split(X,Y):
     x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size=0.3, random_state=42)
 
     return (x_train, x_test, y_train, y_test)
@@ -110,7 +110,7 @@ if __name__ == "__main__":
 
     Y = Y_generate(Y)
     X = X_generate(data)
-    x_train, x_test, y_train, y_test = train_test_split(X,Y)
+    x_train, x_test, y_train, y_test = data_split(X,Y)
 
     model = modeling(x_train)
     history = model_train(x_train, x_test, y_train, y_test)
