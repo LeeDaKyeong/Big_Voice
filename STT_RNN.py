@@ -56,6 +56,7 @@ def Y_generate(Y):
 def X_generate(data):
     X = data.copy()
     X = X.reshape(X.shape[0], -1, 1)
+    X /= 255
     X = X.astype('float32')
 
     return X
@@ -100,9 +101,7 @@ def model_test(path):
 
     mfcc = util.MFCC_extract(y)
 
-    X = mfcc.copy()
-    X = X.reshape(1, -1, 1)
-    X = X.astype('float32')
+    X = X_generate(mfcc)
 
     model = model_load()
 
