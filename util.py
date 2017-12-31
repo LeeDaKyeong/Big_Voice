@@ -46,7 +46,7 @@ def word_seperation(y):
 
 # MFCC extract
 # input : librosa, output : numpy
-def MFCC_extract(y, sr = 44100, y_len = 100000):
+def MFCC_extract(y, sr = 44100, y_len = 50000):
     if len(y) < y_len:
         y = np.append(y,np.zeros(y_len-len(y)))
     else:
