@@ -18,7 +18,7 @@ def train_data(path):
 
                 y, sr = util.call_audio_librosa(path4)
                 #y = denoising.denoise(y)
-                li.append(util.MFCC_extract_reshape(y))
+                li.append(util.MFCC_extract_reshape(y, y_len = 100000))
     _li = np.array(li)
     return _li
 
@@ -37,12 +37,30 @@ def speaker_recog(audio_path):
                4: "태권"}
 
     y,sr = util.call_audio_librosa(audio_path)
-    mfcc = util.MFCC_extract_reshape(y, y_len = 50000)
+    mfcc = util.MFCC_extract_reshape(y, y_len = 100000)
     _mfcc = np.reshape(mfcc, (1, len(mfcc)))
     model = speaker_recog_model_load()
     result = model.predict(_mfcc)
     return speaker[int(result)]
 
+
+# 시연할 때 util.word_seperation로 자른 단어들 이거로 화자인식
+def speaker_recog_Aduio(AudioSeg):
+    speaker = {0: "다경",
+               1: "혜진",
+               2: "강열",
+               3: "이삭",
+               4: "태권"}
+
+    y = util.AudioSegment2librosa(AudioSeg)
+    if len(y) >= 10000:
+        mfcc = util.MFCC_extract_reshape(y, y_len=100000)
+        _mfcc = np.reshape(mfcc, (1, len(mfcc)))
+        model = speaker_recog_model_load()
+        result = model.predict(_mfcc)
+
+        print(speaker[int(result)])
+        return speaker[int(result)]
 
 if __name__ == "__main__":
     DK_path = "./audio_name/DK"

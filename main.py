@@ -5,7 +5,7 @@ import util
 import numpy as np
 
 if __name__ == "__main__":
-    audio_path = "./audio_date/12.29/LS/LS_word3_3.wav"
+    audio_path = "./audio_date/12.29/KY/word4/KY_word4_2.wav"
 
     speaker = speaker_recog.speaker_recog(audio_path)
     print(speaker)

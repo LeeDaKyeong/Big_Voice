@@ -2,329 +2,628 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e99cc571-d0cc-41d9-8cfd-91a83dae4e31" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/data_expand.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence1/sentence1_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence1/sentence1_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence1/sentence1_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence1/sentence1_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence1/sentence1_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence1/sentence1_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence1/sentence1_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence1/sentence1_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence1/sentence1_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence1/sentence1_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence2/sentence2_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence2/sentence2_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence2/sentence2_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence2/sentence2_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence2/sentence2_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence2/sentence2_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence2/sentence2_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence2/sentence2_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence2/sentence2_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_sentence2/sentence2_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_11.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_12.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_13.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_14.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_15.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_16.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_17.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_18.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_19.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_20.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word1/word1_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_11.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_12.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_13.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_14.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_15.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_16.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_17.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_18.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_19.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_20.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word2/word2_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_11.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_12.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_13.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_14.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_15.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_16.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_17.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_18.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_19.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_20.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.05/LS_word3/word3_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence1/sentence1_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence1/sentence1_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence1/sentence1_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence1/sentence1_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence1/sentence1_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence1/sentence1_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence1/sentence1_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence1/sentence1_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence1/sentence1_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence1/sentence1_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence2/sentence2_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence2/sentence2_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence2/sentence2_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence2/sentence2_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence2/sentence2_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence2/sentence2_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence2/sentence2_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence2/sentence2_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence2/sentence2_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_sentence2/sentence2_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_11.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_12.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_13.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_14.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_15.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_16.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_17.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_18.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_19.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_20.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word1/word1_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_11.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_12.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_13.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_14.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_15.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_16.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_17.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_18.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_19.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_20.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word2/word2_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_11.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_12.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_13.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_14.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_15.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_16.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_17.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_18.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_19.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_20.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.06/LS_word3/word3_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence1/sentence1_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence1/sentence1_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence1/sentence1_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence1/sentence1_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence1/sentence1_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence1/sentence1_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence1/sentence1_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence1/sentence1_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence1/sentence1_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence1/sentence1_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence2/sentence2_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence2/sentence2_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence2/sentence2_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence2/sentence2_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence2/sentence2_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence2/sentence2_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence2/sentence2_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence2/sentence2_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence2/sentence2_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_sentence2/sentence2_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_11.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_12.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_13.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_14.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_15.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_16.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_17.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_18.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_19.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_20.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word1/word1_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_11.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_12.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_13.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_14.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_15.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_16.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_17.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_18.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_19.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_20.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word2/word2_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_11.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_12.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_13.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_14.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_15.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_16.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_17.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_18.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_19.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_20.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.07/LS_word3/word3_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence1/sentence1_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence1/sentence1_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence1/sentence1_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence1/sentence1_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence1/sentence1_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence1/sentence1_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence1/sentence1_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence1/sentence1_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence1/sentence1_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence1/sentence1_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence2/sentence2_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence2/sentence2_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence2/sentence2_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence2/sentence2_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence2/sentence2_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence2/sentence2_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence2/sentence2_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence2/sentence2_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence2/sentence2_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_sentence2/sentence2_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_11.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_12.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_13.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_14.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_15.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_16.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_17.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_18.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_19.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_20.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word1/word1_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_11.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_12.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_13.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_14.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_15.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_16.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_17.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_18.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_19.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_20.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word2/word2_9.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_1.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_10.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_11.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_12.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_13.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_14.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_15.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_16.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_17.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_18.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_19.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_2.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_20.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_3.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_4.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_5.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_6.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_7.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_8.wav" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.08/LS_word3/word3_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word10_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word10_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word10_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word10_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word10_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word10_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word10_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word10_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word10_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word10_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word11_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word11_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word11_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word11_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word11_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word11_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word11_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word11_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word11_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word11_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word12_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word12_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word12_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word12_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word12_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word12_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word12_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word12_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word12_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word12_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word1_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word1_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word1_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word1_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word1_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word1_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word1_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word1_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word1_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word1_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word2_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word2_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word2_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word2_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word2_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word2_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word2_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word2_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word2_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word2_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word3_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word3_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word3_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word3_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word3_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word3_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word3_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word3_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word3_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word3_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word4_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word4_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word4_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word4_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word4_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word4_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word4_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word4_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word4_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word4_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word5_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word5_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word5_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word5_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word5_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word5_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word5_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word5_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word5_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word5_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word6_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word6_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word6_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word6_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word6_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word6_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word6_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word6_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word6_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word6_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word7_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word7_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word7_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word7_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word7_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word7_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word7_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word7_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word7_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word7_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word8_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word8_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word8_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word8_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word8_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word8_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word8_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word8_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word8_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word8_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word9_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word9_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word9_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word9_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word9_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word9_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word9_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word9_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word9_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/DK/DK_12.29/DK_word9_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word10_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word10_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word10_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word10_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word10_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word10_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word10_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word10_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word10_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word10_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word11_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word11_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word11_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word11_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word11_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word11_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word11_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word11_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word11_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word11_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word12_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word12_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word12_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word12_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word12_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word12_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word12_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word12_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word12_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word12_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word1_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word1_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word1_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word1_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word1_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word1_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word1_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word1_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word1_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word1_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word2_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word2_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word2_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word2_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word2_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word2_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word2_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word2_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word2_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word2_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word3_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word3_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word3_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word3_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word3_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word3_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word3_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word3_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word3_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word3_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word4_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word4_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word4_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word4_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word4_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word4_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word4_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word4_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word4_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word4_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word5_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word5_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word5_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word5_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word5_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word5_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word5_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word5_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word5_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word5_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word6_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word6_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word6_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word6_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word6_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word6_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word6_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word6_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word6_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word6_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word7_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word7_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word7_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word7_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word7_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word7_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word7_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word7_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word7_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word7_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word8_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word8_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word8_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word8_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word8_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word8_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word8_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word8_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word8_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word8_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word9_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word9_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word9_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word9_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word9_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word9_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word9_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word9_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word9_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/KY/KY_12.29/KY_word9_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_11.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_12.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_13.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_14.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_15.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_16.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_17.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_18.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_19.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_20.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word11_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_11.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_12.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_13.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_14.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_15.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_16.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_17.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_18.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_19.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_20.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word12_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_11.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_12.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_13.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_14.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_15.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_16.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_17.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_18.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_19.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_20.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word13_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_11.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_12.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_13.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_14.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_15.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_16.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_17.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_18.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_19.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_20.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word1_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_11.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_12.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_13.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_14.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_15.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_16.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_17.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_18.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_19.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_20.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word2_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_11.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_12.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_13.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_14.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_15.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_16.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_17.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_18.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_19.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_20.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word3_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_11.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_12.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_13.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_14.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_15.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_16.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_17.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_18.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_19.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_20.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_21.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_22.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_23.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_24.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_25.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_26.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_27.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_28.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_29.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_30.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_31.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_32.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_33.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_34.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_35.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_36.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_37.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_38.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_39.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_40.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word4_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_11.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_12.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_13.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_14.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_15.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_16.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_17.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_18.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_19.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_20.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word5_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_11.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_12.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_13.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_14.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_15.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_16.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_17.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_18.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_19.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_20.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word6_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_11.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_12.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_13.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_14.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_15.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_16.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_17.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_18.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_19.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_20.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word7_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_11.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_12.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_13.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_14.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_15.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_16.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_17.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_18.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_19.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_20.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word8_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_11.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_12.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_13.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_14.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_15.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_16.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_17.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_18.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_19.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_20.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/LS/LS_12.29/LS_word9_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word10_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word10_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word10_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word10_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word10_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word10_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word10_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word10_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word10_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word10_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word11_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word11_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word11_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word11_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word11_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word11_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word11_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word11_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word11_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word11_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word12_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word12_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word12_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word12_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word12_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word12_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word12_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word12_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word12_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word12_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word1_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word1_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word1_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word1_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word1_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word1_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word1_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word1_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word1_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word1_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word2_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word2_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word2_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word2_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word2_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word2_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word2_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word2_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word2_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word2_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word3_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word3_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word3_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word3_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word3_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word3_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word3_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word3_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word3_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word3_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word4_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word4_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word4_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word4_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word4_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word4_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word4_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word4_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word4_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word4_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word5_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word5_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word5_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word5_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word5_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word5_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word5_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word5_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word5_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word5_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word6_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word6_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word6_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word6_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word6_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word6_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word6_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word6_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word6_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word6_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word7_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word7_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word7_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word7_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word7_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word7_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word7_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word7_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word7_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word7_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word8_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word8_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word8_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word8_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word8_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word8_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word8_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word8_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word8_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word8_9.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word9_1.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word9_10.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word9_2.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word9_3.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word9_4.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word9_5.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word9_6.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word9_7.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word9_8.wav" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/audio_name/TK/TK_12.29/TK_word9_9.wav" afterPath="" />
       <change beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change beforePath="$PROJECT_DIR$/model/speaker_recog_svm.sav" afterPath="$PROJECT_DIR$/model/speaker_recog_svm.sav" />
       <change beforePath="$PROJECT_DIR$/speaker_recog.py" afterPath="$PROJECT_DIR$/speaker_recog.py" />
       <change beforePath="$PROJECT_DIR$/util.py" afterPath="$PROJECT_DIR$/util.py" />
     </list>
@@ -337,11 +636,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="util.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="util.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/util.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-305">
-              <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="305">
+              <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
               <folding>
                 <element signature="e#1#19#0" expanded="true" />
               </folding>
@@ -359,11 +658,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="STT_RNN.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="STT_RNN.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/STT_RNN.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+              <caret line="24" column="31" lean-forward="false" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -386,8 +685,8 @@
       <file leaf-file-name="speaker_recog.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/speaker_recog.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="39" column="40" lean-forward="false" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+            <state relative-caret-position="207">
+              <caret line="54" column="43" lean-forward="false" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -398,8 +697,8 @@
       <file leaf-file-name="speech_recog_API.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/speech_recog_API.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="63" lean-forward="false" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
+            <state relative-caret-position="360">
+              <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -408,8 +707,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            <state relative-caret-position="315">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -435,10 +734,10 @@
         <option value="$PROJECT_DIR$/denoising.py" />
         <option value="$PROJECT_DIR$/speech_recog_API.py" />
         <option value="$PROJECT_DIR$/STT_RNN.py" />
-        <option value="$PROJECT_DIR$/util.py" />
-        <option value="$PROJECT_DIR$/speaker_recog.py" />
         <option value="$PROJECT_DIR$/data_expand.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/speaker_recog.py" />
+        <option value="$PROJECT_DIR$/util.py" />
       </list>
     </option>
   </component>
@@ -604,7 +903,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1034,30 +1333,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/speech_recog_API.py">
+    <entry file="file://$PROJECT_DIR$/STT_RNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="63" lean-forward="false" selection-start-line="27" selection-start-column="63" selection-end-line="27" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/speaker_recog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="39" column="40" lean-forward="false" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+        <state relative-caret-position="360">
+          <caret line="24" column="31" lean-forward="false" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1070,22 +1351,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/util.py">
+    <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-305">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state relative-caret-position="315">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="e#1#19#0" expanded="true" />
+            <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/STT_RNN.py">
+    <entry file="file://$PROJECT_DIR$/speaker_recog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        <state relative-caret-position="207">
+          <caret line="54" column="43" lean-forward="false" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/speech_recog_API.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
