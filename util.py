@@ -41,12 +41,12 @@ def librosa2AudioSegment(y, sr = 44100):
 # sentece to words,
 # input : AudioSegment, output : words list
 def word_seperation(y):
-    audio_chunks = split_on_silence(y, min_silence_len=100, silence_thresh=-70)
+    audio_chunks = split_on_silence(y, min_silence_len=150, silence_thresh=-50)
 
-    #for i, chunk in enumerate(audio_chunks):
-    #    out_file = "/Users/apple/Desktop/all/chunk{0}.wav".format(i)
-    #    print("exporting", out_file)
-    #    chunk.export(out_file, format="wav")
+    for i, chunk in enumerate(audio_chunks):
+        out_file = "./test/chunk{0}.wav".format(i)
+        #print("exporting", out_file)
+        chunk.export(out_file, format="wav")
 
     return audio_chunks
 

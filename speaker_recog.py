@@ -6,7 +6,9 @@ import pickle
 import denoising
 
 # speaker recog train data 생성(svm)
-def train_data(path):
+
+def train_data(path, Y, index):
+    print("start")
     li = list()
 
     for index1 in os.listdir(path):
@@ -14,13 +16,16 @@ def train_data(path):
         for index2 in os.listdir(path2):
             path3 = os.path.join(path2, index2)  # /Users/apple/Desktop/audio_name/DK/DK_11.30/DK_sentence1
             for index3 in os.listdir(path3):
-                path4 = os.path.join(path3,index3)  # /Users/apple/Desktop/audio_name/DK/DK_11.30/DK_sentence1/sentence1_1.wav
+                path4 = os.path.join(path3,
+                                     index3)  # /Users/apple/Desktop/audio_name/DK/DK_11.30/DK_sentence1/sentence1_1.wav
 
                 y, sr = util.call_audio_librosa(path4)
-                #y = denoising.denoise(y)
-                li.append(util.MFCC_extract_reshape(y, y_len = 100000))
+                # y = denoising.denoise(y)
+                li.append(util.MFCC_extract_reshape(y, y_len=100000))
+                Y.append(index)
     _li = np.array(li)
-    return _li
+
+    return (_li, Y)
 
 
 # svm model load
@@ -37,11 +42,14 @@ def speaker_recog(audio_path):
                4: "태권"}
 
     y,sr = util.call_audio_librosa(audio_path)
-    mfcc = util.MFCC_extract_reshape(y, y_len = 100000)
-    _mfcc = np.reshape(mfcc, (1, len(mfcc)))
-    model = speaker_recog_model_load()
-    result = model.predict(_mfcc)
-    return speaker[int(result)]
+    if len(y) >= 10000:
+
+        mfcc = util.MFCC_extract_reshape(y, y_len = 100000)
+        _mfcc = np.reshape(mfcc, (1, len(mfcc)))
+        model = speaker_recog_model_load()
+        result = model.predict(_mfcc)
+        print(speaker[int(result)])
+        return speaker[int(result)]
 
 
 # 시연할 때 util.word_seperation로 자른 단어들 이거로 화자인식
@@ -53,7 +61,7 @@ def speaker_recog_Aduio(AudioSeg):
                4: "태권"}
 
     y = util.AudioSegment2librosa(AudioSeg)
-    if len(y) >= 10000:
+    if len(y) >= 5000:
         mfcc = util.MFCC_extract_reshape(y, y_len=100000)
         _mfcc = np.reshape(mfcc, (1, len(mfcc)))
         model = speaker_recog_model_load()
@@ -62,34 +70,38 @@ def speaker_recog_Aduio(AudioSeg):
         print(speaker[int(result)])
         return speaker[int(result)]
 
+
 if __name__ == "__main__":
+    Y = list()
+
     DK_path = "./audio_name/DK"
-    DK = train_data(DK_path)
-    DK_len = len(DK)
+    DK, Y = train_data(DK_path, Y, 0)
+    # DK_len = len(DK)
 
     HJ_path = "./audio_name/HJ"
-    HJ = train_data(HJ_path)
-    HJ_len = len(HJ)
+    HJ, Y = train_data(HJ_path, Y, 1)
+    # HJ_len = len(HJ)
 
     KY_path = "./audio_name/KY"
-    KY = train_data(KY_path)
-    KY_len = len(KY)
+    KY, Y = train_data(KY_path, Y, 2)
+    # KY_len = len(KY)
 
     LS_path = "./audio_name/LS"
-    LS = train_data(LS_path)
-    LS_len = len(LS)
+    LS, Y = train_data(LS_path, Y, 3)
+    # LS_len = len(LS)
 
     TK_path = "./audio_name/TK"
-    TK = train_data(TK_path)
-    TK_len = len(TK)
+    TK, Y = train_data(TK_path, Y, 4)
+    # TK_len = len(TK)
 
     X = np.vstack((DK, HJ, KY, LS, TK))
-    Y = np.zeros(DK_len+HJ_len+KY_len+LS_len+TK_len)
-    Y[:DK_len] = 0
-    Y[DK_len:HJ_len] = 1
-    Y[DK_len+HJ_len:DK_len+HJ_len+KY_len] = 2
-    Y[DK_len+HJ_len+KY_len:DK_len+HJ_len+KY_len+LS_len] = 3
-    Y[DK_len+HJ_len+KY_len+LS_len:] = 4
+
+    # Y = np.zeros(DK_len+HJ_len+KY_len+LS_len+TK_len)
+    # Y[:DK_len] = 0
+    # Y[DK_len:HJ_len] = 1
+    # Y[DK_len+HJ_len:DK_len+HJ_len+KY_len] = 2
+    # Y[DK_len+HJ_len+KY_len:DK_len+HJ_len+KY_len+LS_len] = 3
+    # Y[DK_len+HJ_len+KY_len+LS_len:] = 4
 
     lin_clf = svm.LinearSVC()
     lin_clf.fit(X, Y)
