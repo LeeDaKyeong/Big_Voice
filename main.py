@@ -5,15 +5,42 @@ import util
 import numpy as np
 import os
 import re
+import IPython.display as ipd
+import librosa
+import pyglet
+import pygame
+import time
+
 
 if __name__ == "__main__":
-    #audio_path = "./HJ.wav"
-    audio_path = "./audio_date/12.8/HJ_12.8/HJ_word2/word2_4.wav"
-    speaker = speaker_recog.speaker_recog(audio_path)
 
-'''
-    audio = util.call_audio_AudioSegment(audio_path)
-    chunk = util.word_seperation(audio)
+    # audio_path = "./TK4.wav"
+    # speaker = speaker_recog.speaker_recog(audio_path)
+    # print(speaker)
+
+
+    # LS_y, sr = librosa.load("LS.wav")
+    # KY_y, sr = librosa.load("KY.wav")
+    # DK_y, sr = librosa.load("DK.wav")
+    # HJ_y, sr = librosa.load("HJ.wav")
+    # TK_y, sr = librosa.load("TK.wav")
+    #
+    # y = np.append(LS_y[1000:], KY_y[1000:])
+    # y = np.append(y,DK_y[1000:])
+    # y = np.append(y,HJ_y[1000:])
+    # y = np.append(y,TK_y[1000:])
+    #
+    # librosa.output.write_wav('testtest.wav', y, sr)
+
+    #pygame.init()
+    #pygame.mixer.init()
+    #sounda= pygame.mixer.Sound("testtest.wav")
+
+    #sounda.play()
+    #time.sleep (10)
+
+    #audio = util.call_audio_AudioSegment('testtest.wav')
+    #chunk = util.word_seperation(audio)
 
     li = os.listdir("./test")
     #print(li)
@@ -21,11 +48,11 @@ if __name__ == "__main__":
 
     for i in li:
         if 'chunk' in i:
-            print(os.path.join("./test",i))
+            #print(os.path.join("./test",i))
             speaker = speaker_recog.speaker_recog(os.path.join("./test",i))
-            #print(speaker)
-            
-'''
+            speech = speech_recog_API.speech_recog_google(os.path.join("./test", i))
+            print("speaker : ",speaker, "speech : ",speech)
+
 
     #print(speaker)
 

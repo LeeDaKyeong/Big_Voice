@@ -42,13 +42,13 @@ def speaker_recog(audio_path):
                4: "태권"}
 
     y,sr = util.call_audio_librosa(audio_path)
-    if len(y) >= 10000:
-
+    if len(y) >= 15000:
+        #print(len(y))
         mfcc = util.MFCC_extract_reshape(y, y_len = 100000)
         _mfcc = np.reshape(mfcc, (1, len(mfcc)))
         model = speaker_recog_model_load()
         result = model.predict(_mfcc)
-        print(speaker[int(result)])
+        #print(speaker[int(result)])
         return speaker[int(result)]
 
 
