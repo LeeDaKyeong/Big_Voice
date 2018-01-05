@@ -19,11 +19,11 @@ if __name__ == "__main__":
     # print(speaker)
 
 
-    # LS_y, sr = librosa.load("LS.wav")
-    # KY_y, sr = librosa.load("KY.wav")
-    # DK_y, sr = librosa.load("DK.wav")
-    # HJ_y, sr = librosa.load("HJ.wav")
-    # TK_y, sr = librosa.load("TK.wav")
+    # LS_y, sr = librosa.load("./test_audio/LS.wav")
+    # KY_y, sr = librosa.load("./test_audio/KY.wav")
+    # DK_y, sr = librosa.load("./test_audio/DK.wav")
+    # HJ_y, sr = librosa.load("./test_audio/HJ.wav")
+    # TK_y, sr = librosa.load("./test_audio/TK.wav")
     #
     # y = np.append(LS_y[1000:], KY_y[1000:])
     # y = np.append(y,DK_y[1000:])
